@@ -36,8 +36,22 @@ pip install -r requirements.txt
 ```shell
 python index.py
 ```
-2. Choose an option (if mods folder changed, on first start needed to set it with option 1).
-3. Input required.
+2. After launching the program, you will see a menu with several options:
+```md
+0. Exit - Close the program
+1. Set mods folder (if changed) - Specify the path to the mods folder. If the folder does not exist, the program will leave the default path.
+2. Show current mods - Show a list of all mods in the specified folder.
+3. Enable mod(s) (comma-separated) - Enable one or more mods by name.
+4. Enable all mods - Enable all mods (what disabled before)
+5. Disable mod(s) (comma-separated) - Disable one or more mods by name.
+6. Disable all mods - Disable all mods in the folder.
+7. Show config - Show the current configuration.
+8. Create profile - Create a profile with the current mod settings.
+9. Show profiles - Show a list of saved profiles.
+10. Delete profile - Delete the selected profile.
+11. Apply profile - Apply one of the previously saved profiles.
+12. Backup mods - Create a backup of current mods.
+```
 
 # License
 [(Back to top)](#table-of-contents)
