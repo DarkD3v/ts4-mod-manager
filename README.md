@@ -52,6 +52,17 @@ python index.py
 11. Apply profile - Apply one of the previously saved profiles.
 12. Backup mods - Create a backup of current mods.
 ```
+3. Select the desired option by entering the corresponding number.
+4. Follow the prompts to complete the action.
+5. Repeat the process as needed to manage your mods.
+6. To exit the program, select option 0.
+7. To save your current mod settings as a profile, select option 8.
+8. To apply a saved profile, select option 11.
+9. To delete a saved profile, select option 10.
+10. To show a list of saved profiles, select option 9.
+11. To create a backup of your current mods, select option 12.
+12. To show the current configuration, select option 7.
+13. To disable all mods, select option 6.
 
 # License
 [(Back to top)](#table-of-contents)
