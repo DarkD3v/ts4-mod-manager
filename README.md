@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python index.py
 ```
 2. After launching the program, you will see a menu with several options:
-```shell
+```txt
 0. Exit - Close the program
 1. Set mods folder (if changed) - Specify the path to the mods folder. If the folder does not exist, the program will leave the default path.
 2. Show current mods - Show a list of all mods in the specified folder.
